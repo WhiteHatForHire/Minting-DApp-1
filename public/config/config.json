@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC10b779Ed85eBf68920144a89e71833E84ee9dAE",
+  "SCAN_LINK": "https://polygonscan.com/token/0xC10b779Ed85eBf68920144a89e71833E84ee9dAE",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bobble Boys Matic",
+  "SYMBOL": "BBM",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 20000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bobble-boys-matic-v1",
+  "SHOW_BACKGROUND": true
+}
